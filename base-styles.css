@@ -1,0 +1,30 @@
+/* Base Colors */
+body {
+  background: black;
+}
+/* Navigation Over Ride Styles 
+-------------------------------*/
+/* #nav_bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+} */
+.sidenav-trigger {
+  position: fixed;
+  top: 0;
+  left: 20px;
+}
+
+
+/* Parallax 
+============*/
+.parallax-container {
+  height: 100vh;
+  position: relative;
+}
+
+/* Overall Page Content 
+-------------------------*/
+#main {
+  height: 500px;
+}
